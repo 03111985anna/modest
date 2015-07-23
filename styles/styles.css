@@ -11,13 +11,10 @@ body{
     font-family: 'Quattrocento Sans', sans-serif;
 }
 .h1{
-    font-weight: 700;
-    font-size: 3.6rem;
-    line-height: 3rem;
-    margin-bottom: 6rem;
+
 }
 section{
-    padding: 70px 0 50px;
+
 }
 section .row{
     max-width: 1140px;
@@ -25,60 +22,51 @@ section .row{
     margin: 0 auto;
 }
 section .h1 {
-    border-left: 0.7rem solid #e1e6ea;
-    padding-left: 0.8rem;
+
     text-transform: uppercase;
 }
 /* iconed block */
 .article{
     text-align: center;
-    margin-top: 3rem;
+
 }
 .article__head{
-    font-size: 1.7rem;
-    line-height: 2.6rem;
-    font-weight: 700;
+
+
     text-transform: uppercase;
-    margin-top: 3rem;
+
 }
 .article__content{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.6rem;
-    color: #8d8f92;
-    margin-top: 1rem;
+
 }
 .article__icon{
-    width: 4.8rem;
-    height: 4.8rem;
+
     display: block;
 }
 
 /* photos block */
 .photos{
-    background-color: #3a454d;
+
 }
 .photos .h1{
-    color: #fff;
+
 }
 .photo{
-    margin-bottom: 2.8em;
+    margin-bottom: 0;
 }
 .photo__img{
-    width: 360px;
-    height: 266px;
+    width: 0;
+    height: 0;
 }
 .btn-container{
     text-align: center;
 }
 .btn-default{
-    border: 0.2rem solid #fff;
-    border-radius: 4px;
+    border: 0;
+    border-radius: 0;
     color: #fff;
-    height: 4rem;
-    width: 150px;
-    line-height: 4rem;
-    font-size: 1.4rem;
-    font-weight: 700;
+
+
     text-transform: uppercase;
     text-align: center;
     display: inline-block;
