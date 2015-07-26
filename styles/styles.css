@@ -50,9 +50,20 @@ section .h1 {
 .article__icon{
     width: 4.8rem;
     height: 4.8rem;
-    display: block;
+    display: inline-block;
 }
-
+.article__icon.icon1{
+    background: url(../img/icons/icon1.png) no-repeat;
+}
+.article__icon.icon2{
+    background: url(../img/icons/icon2.png) no-repeat;
+}
+.article__icon.icon3{
+    background: url(../img/icons/icon3.png) no-repeat;
+}
+.article__icon.icon4{
+    background: url(../img/icons/icon4.png) no-repeat;
+}
 /* photos block */
 .photos{
     background-color: #3a454d;
