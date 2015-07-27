@@ -94,3 +94,10 @@ section .h1 {
     text-align: center;
     display: inline-block;
 }
+.main-title{
+    position: relative;
+    padding: 0;
+}
+.main-title img{
+    width: 100%;
+}
